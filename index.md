@@ -28,6 +28,6 @@ layout: default
   </div>
   <div class="card">
     <h3>Other Works</h3>
-    <p><a href="/LLM/">Experimenting automation with tools</a></p>
+    <p><a href="/automation/">Experimenting automation with tools</a></p>
   </div>
 </div>
