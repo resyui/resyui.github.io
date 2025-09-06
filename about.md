@@ -33,5 +33,5 @@ Some awards, some scholarships, and a couple of First-class Honors (and first-cl
 - Deep Learning Microstructure
    
 ## Contact
-My project codes are on [GitHub](https://github.com/resyui)
-My email is at [firstname][lastname]@[stern].[nyu].[edu]
+- My project codes are on [GitHub](https://github.com/resyui)
+- My email is at [firstname][lastname]@[stern].[nyu].[edu]
