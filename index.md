@@ -16,10 +16,10 @@ layout: default
   </div>
   <div class="card">
     <h3>Market Notes</h3>
-    <p><a href="/market-notes/">Some experiements and hypothesis</p>
+    <p><a href="/market-notes/">Some experiements and hypothesis</a></p>
   </div>
   <div class="card">
     <h3>Trading Projects</h3>
-    <p><a href="/algo-trading/">Trading systems and research</p>
+    <p><a href="/algo-trading/">Trading systems and research</a></p>
   </div>
 </div>
