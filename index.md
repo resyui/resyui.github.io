@@ -16,7 +16,7 @@ layout: default
   </div>
   <div class="card">
     <h3>Market Notes</h3>
-    <p><a href="/market-notes/">Some experiements and hypothesis</a></p>
+    <p><a href="/market-notes/">Some hypothesis on the market</a></p>
   </div>
   <div class="card">
     <h3>Trading Projects</h3>
