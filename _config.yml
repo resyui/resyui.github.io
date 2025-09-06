@@ -1,0 +1,23 @@
+title: "resyui"
+description: "Personal website"
+url: "https://resyui.github.io"
+baseurl: "" # keep empty for user site
+author: "resyui"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Directories
+collections:
+  posts:
+    output: true
+
+# Optional future configs can go here
