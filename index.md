@@ -22,4 +22,12 @@ layout: default
     <h3>Trading Projects</h3>
     <p><a href="/algo-trading/">Trading systems and research</a></p>
   </div>
+  <div class="card">
+    <h3>LLM and Agents</h3>
+    <p><a href="/LLM/">Playing with LLM</a></p>
+  </div>
+  <div class="card">
+    <h3>Other Works</h3>
+    <p><a href="/LLM/">Experimenting automation with tools</a></p>
+  </div>
 </div>
