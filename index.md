@@ -4,8 +4,8 @@ layout: default
 ---
 
 <div class="hero">
-  <h2> Timothy Chan </h2>
-  <p> Statistician. Scientist at work, Artist in disguise. Sometimes science is more art than science. A lot of people don't get that. </p>
+  <h2> Welcome! </h2>
+  <p> A bit about myself: Statistician. Scientist at work, Artist in disguise. Sometimes science is more art than science. A lot of people don't get that. </p>
   <p> Getting the basics right and at the same time going for the frontiers. </p>
 </div>
 
