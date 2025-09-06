@@ -9,14 +9,29 @@
 </head>
 <body>
   <header class="site-header">
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <p class="tagline">{{ site.description }}</p>
+    <div class="inner">
+      <div class="brand">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <span class="site-tagline">{{ site.description }}</span>
+      </div>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      </nav>
+    </div>
   </header>
-  <main class="content">
-    {{ content }}
+
+  <main class="site-main">
+    <div class="inner">
+      {{ content }}
+    </div>
   </main>
+
   <footer class="site-footer">
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }} · Powered by Jekyll & GitHub Pages</p>
+    <div class="inner">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }} · <a href="https://github.com/{{ site.github_username | default: site.author }}">GitHub</a></p>
+    </div>
   </footer>
 </body>
 </html>
