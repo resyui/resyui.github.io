@@ -11,18 +11,6 @@ layout: default
 
 <div class="grid">
   <div class="card">
-    <h3>Status</h3>
-    <p>Site scaffold online. Next: add content structure.</p>
-  </div>
-  <div class="card">
-    <h3>Tech Stack</h3>
-    <p>Jekyll + GitHub Pages + Actions workflow.</p>
-  </div>
-  <div class="card">
-    <h3>Next Ideas</h3>
-    <p>Blog posts, project index, resume section, dark mode toggle.</p>
-  </div>
-  <div class="card">
     <h3>Repository</h3>
     <p><a href="https://github.com/resyui/resyui.github.io">View on GitHub</a></p>
   </div>
