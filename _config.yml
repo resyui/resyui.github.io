@@ -2,7 +2,7 @@ title: "Timothy Chan"
 description: "Personal website"
 url: "https://resyui.github.io"
 baseurl: "" # keep empty for user site
-author: "resyui"
+author: "Timothy Chan"
 
 # Build settings
 markdown: kramdown
