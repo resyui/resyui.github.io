@@ -4,9 +4,9 @@ layout: default
 ---
 
 <div class="hero">
-  <h2> Hello, I'm Tim </h2>
-  <p> Welcome to my new personal site. This is a minimal Jekyll setup deployed with GitHub Actions. I will expand it with projects, notes, and more soon.</p>
-  <p> If you're seeing this, the pipeline & deployment worked successfully. </p>
+  <h2> Timothy Chan </h2>
+  <p> Statistician. Scientist at work, Artist in disguise. Sometimes science is more art than science. A lot of people don't get that. </p>
+  <p> Getting the basics right and at the same time going for the frontiers. </p>
 </div>
 
 <div class="grid">
