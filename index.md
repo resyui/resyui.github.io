@@ -6,7 +6,7 @@ layout: default
 <div class="hero">
   <h2> Welcome to my page. </h2>
   <p> Statistician. Scientist at work, Artist in disguise. Sometimes science is more art than science, a lot of people don't get that. </p>
-  <p> Getting the basics right and going for the frontiers. </p>
+  <p> Getting the basics right and pushing for the frontiers. </p>
 </div>
 
 <div class="grid">
