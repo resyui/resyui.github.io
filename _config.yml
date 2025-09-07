@@ -19,8 +19,8 @@ plugins:
 collections:
   posts:
     output: true
-  projects:
+  articles:
     output: true
-    permalink: /projects/:slug/
+    permalink: /blog/:slug/
 
 # Optional future configs can go here
