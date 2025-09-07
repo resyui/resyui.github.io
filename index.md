@@ -19,7 +19,7 @@ layout: default
     <p><a href="/blog/">Some hypothesis on the market</a></p>
   </div>
   <div class="card">
-    <h3>Trading Projects</h3>
+    <h3>Trading</h3>
     <p><a href="/projects/algo-trading/">Trading systems and research</a></p>
   </div>
   <div class="card">
