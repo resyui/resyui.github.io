@@ -16,18 +16,18 @@ layout: default
   </div>
   <div class="card">
     <h3>Market Notes</h3>
-    <p><a href="/market-notes/">Some hypothesis on the market</a></p>
+    <p><a href="/blog/">Some hypothesis on the market</a></p>
   </div>
   <div class="card">
     <h3>Trading Projects</h3>
-    <p><a href="/algo-trading/">Trading systems and research</a></p>
+    <p><a href="/projects/algo-trading/">Trading systems and research</a></p>
   </div>
   <div class="card">
     <h3>LLM and Agents</h3>
-    <p><a href="/LLM/">Playing with LLM</a></p>
+    <p><a href="/projects/LLM/">Playing with LLM</a></p>
   </div>
   <div class="card">
     <h3>Other Works</h3>
-    <p><a href="/automation/">Experimenting automation and data science tools</a></p>
+    <p><a href="/projects/toolsandtests/">Experimenting automation and data science tools</a></p>
   </div>
 </div>
