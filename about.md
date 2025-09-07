@@ -33,4 +33,4 @@ Some awards, some scholarships, and graduated with First-class Honors.
    
 ## Contact
 - My project codes are on [GitHub](https://github.com/resyui)
-- My email is at [firstname][lastname]@[stern].[nyu].[edu]
+- My email is at [firstname].[lastname]@[stern].[nyu].[edu]
