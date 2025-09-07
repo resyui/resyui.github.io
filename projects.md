@@ -7,12 +7,9 @@ permalink: /projects/
 # Projects
 
 <ul class="project-list">
-{% assign items = site.projects | sort: 'date' | reverse %}
-{% for p in items %}
   <li class="project-item">
-    <h2><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2>
-    {% if p.description %}<p>{{ p.description }}</p>{% endif %}
-    {% if p.tech %}<p><strong>Stack:</strong> {{ p.tech }}</p>{% endif %}
+    <h2><a href="https://github.com/resyui/projects/trading-research/" target="_blank" rel="noopener">Trading Research</a></h2>
+    <p>Research framework for testing and analyzing algorithmic trading strategies.</p>
+    <p><strong>Stack:</strong> Python</p>
   </li>
-{% endfor %}
 </ul>
