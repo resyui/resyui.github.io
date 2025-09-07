@@ -7,7 +7,7 @@ permalink: /about/
 # About Me
 From a political science major to discovering math and science in its very own form.
 
-Not necessarily the IMO Gold Medalist people search for but definitely the one that always stays in the game.
+Not necessarily the IMO Gold Medalist you are hoping for but definitely is the one that always stays in the game.
 
 ## Experience
 - Quant Strats @ Hong Kong based Proprietary Trading Firm;
