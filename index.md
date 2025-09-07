@@ -20,7 +20,7 @@ layout: default
   </div>
   <div class="card">
     <h3>Trading</h3>
-    <p><a href="/projects/algo-trading/">Trading systems and research</a></p>
+    <p><a href="/projects/trading-research/">Trading systems and research</a></p>
   </div>
   <div class="card">
     <h3>LLM and Agents</h3>
