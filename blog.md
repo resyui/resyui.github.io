@@ -7,8 +7,10 @@ permalink: /blog/
 # Blog
 
 <ul class="project-list">
-{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
-{% for post in posts_sorted %}
+{% comment %}
+site.posts is already reverse chronological, so no need to sort manually
+{% endcomment %}
+{% for post in site.posts %}
   <li class="project-item">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
