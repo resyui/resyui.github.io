@@ -8,9 +8,9 @@ permalink: /blog/
 
 <ul class="project-list">
   <li class="project-item">
-    <h2><a href="/blog/jane-street-strategy/">Jane Street Strategy</a></h2>
+    <h2><a href="/blog/jane_street_in_india/">Jane Street in India</a></h2>
     <p><small>2025-09-07</small></p>
-    <p>Notes and thoughts about a Jane Street style trading strategy exploration.</p>
+    <p>Notes and thoughts about the Jane Street trading in Nifty 50</p>
   </li>
 </ul>
 
