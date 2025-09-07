@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-From a political science major to discovering math and science in its very own form.
-
+## About Me
+From a political science major to discovering math and science in its very own form.   
 Not necessarily the IMO Gold Medalist you are hoping for but definitely is the one that always stays in the game.
 
-## Experience
+## Work Experience
 - Quant Strats @ Hong Kong based Proprietary Trading Firm;
 - Alpha Research @ WorldQuant;
 - Research Intern @ University of Hong Kong;
@@ -20,10 +19,10 @@ Not necessarily the IMO Gold Medalist you are hoping for but definitely is the o
 - Master's Degree, Political Economy, New York University (Dropped out due to admission to Columbia);
 - Bachelor's Degree, Political Science, University of Hong Kong 
 
-Some awards, some scholarships, and a couple of First-class Honors (and first-class range grades).
+Some awards, some scholarships, and graduated with First-class Honors.
 
 ## Focus Areas
-- Research
+- Signal Research
 - Math Modelling
 - Statistical Learning
 - Systematic Trading
