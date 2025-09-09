@@ -29,7 +29,7 @@ Some awards, some scholarships, and graduated with First-class Honors.
 
 ## Current Interests
 - Game theoretical models on market interactions
-- Deep Learning Microstructure
+- Deep learning market microstructure
    
 ## Contact
 - My project codes are on [GitHub](https://github.com/resyui)
